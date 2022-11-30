@@ -3,9 +3,9 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "test2";
+const vid_folder = "test3";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://raw.githubusercontent.com/hyperpro/QoE_experiments_final/master/videos/" + vid_folder + "/";
+var video_url = "https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
 var worst_quality = video_url + "2.mp4";
 
