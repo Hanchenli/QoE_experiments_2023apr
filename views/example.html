@@ -4,7 +4,7 @@
 <!-- End instructions --><!-- Categorization Layout -->
 
     <div  style="text-align:center"> 
-        <h2>The Quality Damges that might appear in this survey are: <b>resolution decrease</b> and <b>video pause</b>. Below are examples:</h2> 
+        <h2>The Quality Damges that might appear in this survey are: <b>bitrate decrease</b> and <b>video glitch</b>. Below are examples:</h2> 
     </div>
 
 <div class="row" id="workContent">
@@ -13,7 +13,17 @@
 
 
     <div  style="text-align:center"> 
-        <h2>resolution decrease (occuring at the end of first second) </h2> 
+        <h2>bitrate decrease (occuring at the end of first second) </h2> 
+    </div>
+
+
+  <div class="panel-body", style="text-align:center">
+      <video width="1024" height="576" controls="controls" id="blur264" >
+      </video>
+  </div>
+
+    <div  style="text-align:center"> 
+        <h2>another example of bitrate decrease (occuring at the beginning of first second) </h2> 
     </div>
 
 
@@ -21,8 +31,9 @@
       <video width="1024" height="576" controls="controls" id="blur" >
       </video>
   </div>
+
     <div  style="text-align:center"> 
-        <h2>video pause (occuring at the end of first second)</h2> 
+        <h2>video glitch (occuring at the beginning of first second)</h2> 
     </div>
 
   <div class="panel-body", style="text-align:center">
@@ -57,8 +68,27 @@
   return xhr;
 }
 
+var req =  createCORSRequest('GET','https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/blur264.mp4');
+req.responseType = 'blob';
 
-var req =  createCORSRequest('GET','https://raw.githubusercontent.com/tony-ou/QoE_experiments/master/stall.mp4');
+
+
+req.onload = function() {
+   // Onload is triggered even on 404
+   // so we need to check the status code
+   if (this.status === 200) {
+      var videoBlob = this.response;
+      var vid = URL.createObjectURL(videoBlob); // IE10+
+      // Video is now downloaded
+      // and we can set it as source on the video element
+      document.getElementById('blur264').src = vid;
+   }
+}
+
+
+req.send();
+
+var req =  createCORSRequest('GET','https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/stall.mp4');
 req.responseType = 'blob';
 
 
@@ -79,7 +109,7 @@ req.onload = function() {
 req.send();
 
 
-var req =  createCORSRequest('GET','https://raw.githubusercontent.com/tony-ou/QoE_experiments/master/blur.mp4');
+var req =  createCORSRequest('GET','https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/blur.mp4');
 req.responseType = 'blob';
 
 req.onload = function() {
