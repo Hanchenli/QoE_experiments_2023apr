@@ -1,0 +1,10 @@
+5,1,1,1,4
+1,2,4,3,5
+55038,17212,13544,15062,25983
+11647,6120,5770,17760,5621
+A1NKBXOTZAI1YK
+Desktop
+32 - 38
+Cable network
+The freezes are the most annoying glitch.  The bitrate decrease is not really that noticeable, especially if there is a lot of moving or the camera is zooming in/out.
+2,5,4,5,3

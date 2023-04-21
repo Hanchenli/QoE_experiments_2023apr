@@ -1,0 +1,10 @@
+5,1,2,2,5
+1,2,3,5,4
+670955,15375,14798,24761,17509
+18016,196390,9534,72561,4891
+A207IHY6GERCFO
+Desktop
+39 - 45
+Cable network
+lag is worse than lower quality
+2,5,4,4,2

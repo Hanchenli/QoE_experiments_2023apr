@@ -1,0 +1,10 @@
+5,1,2,3,4
+1,2,5,3,4
+48593,15348,14871,14277,16272
+14541,5863,7707,4774,8252
+ACDX50KGPE97I
+Desktop
+32 - 38
+Cable network
+In general if there are stalls in the video, it takes me out of the experience. Bitrate issues are not quite as bad. 
+2,5,5,4,5

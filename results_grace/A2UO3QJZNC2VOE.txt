@@ -1,0 +1,10 @@
+5,1,2,2,5
+1,2,5,4,3
+43780,16719,18288,17665,17057
+6768,8933,8580,6496,11278
+A2UO3QJZNC2VOE
+Laptop
+32 - 38
+WiFi
+lagging and bad picture going in and out
+2,5,5,5,2

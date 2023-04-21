@@ -3,9 +3,9 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "test3";
+const vid_folder = "heart";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/" + vid_folder + "/";
+var video_url = "https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
 var worst_quality = video_url + "2.mp4";
 
@@ -22,7 +22,7 @@ var post_example = async (ctx, next) => {
 }
 
 var post_start = async (ctx, next) => {
-       var mturkID = ctx.request.body.MTurkID;
+    var mturkID = ctx.request.body.MTurkID;
     var device = ctx.request.body.device;
     var age = ctx.request.body.age;
     var network = ctx.request.body.network;
