@@ -1,0 +1,10 @@
+5,1,4,2,3,2
+1,2,6,5,4,3
+55332,20162,19378,19216,18717,20460
+18532,16521,8381,15495,11482,30337
+A3FJCLBK3HF4PD
+Desktop
+32 - 38
+Cable network
+I think that bitrate issues don't affect the gameplay as much as stalling. When only your graphic quality is affected, you can still shoot, navigate out of danger, etc. Similar to being "flashbanged" in counter-strike. With a stall, you are a sitting duck. Both playing and watching with stalls is frustrating, I can get by some graphical/bitrate issues here and there.
+2,5,4,4,3,3

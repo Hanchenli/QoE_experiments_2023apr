@@ -1,0 +1,10 @@
+5,1,4,3,4,3
+1,2,5,3,4,6
+99633,18275,20438,20358,37677,19332
+29981,12817,5964,6063,34451,5417
+AQXRHIMQ7UK7O
+Tablet
+39 - 45
+WiFi
+The stalling feels more aggravating, but also not as bad as the bitrate degradation. Since the video continues when it's degraded, you potentially miss out on something, whereas the stalling usually just picks up from the spot it stalled out and you don't miss things. 
+2,5,4,4,3,3

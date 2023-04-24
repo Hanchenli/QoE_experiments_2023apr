@@ -1,0 +1,10 @@
+5,1,4,3,4,4
+1,2,5,4,6,3
+41752,19019,20435,20067,18600,18858
+10988,7286,8558,6990,85195,9123
+AKSJ3C5O3V9RB
+Desktop
+18 - 24
+WiFi
+The guidelines, grading, and attention checks were all easy to understand and clearly explained. I think bitrate quality issues are far more detrimental to how one feels about the quality of a video compared to video stalling issues, even though it's annoying when videos stall. Despite being annoying, video stalls don't detract as much as bitrate reductions.
+2,5,4,4,3,3

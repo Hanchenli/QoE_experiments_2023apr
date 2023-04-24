@@ -1,0 +1,10 @@
+5,1,4,3,3,2
+1,2,4,3,6,5
+57892,18698,18315,21757,18799,18889
+24464,13175,13413,26338,9991,11112
+A394S7JSNUA3TS
+Desktop
+32 - 38
+Cable network
+I think having a bit rate quality damage is more annoying than a stall. It's very hard to tell what's going on when the bit rate gets bad but you can still see what is happening when a video stalls for a moment. 
+2,5,4,4,3,3

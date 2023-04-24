@@ -3,7 +3,7 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "ow1";
+const vid_folder = "ow2";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
@@ -137,7 +137,18 @@ var post_back2video = async (ctx, next) => {
     }
 }
 
+var post_bad_vid = async (ctx, next) => {
+    var user = ctx.state.user;
+    var grade = ctx.request.body.sentiment;
+    var end = new Date().getTime();
+    var exe_time = end - user.start;
 
+    var attention_test = Number(ctx.request.body.blur)+ Number(ctx.request.body.stall);
+ 
+            ctx.render('bad_video.html', {
+                title: title, video_src : video_src
+            });
+}
 
 var post_next = async (ctx, next) => {
     var user = ctx.state.user;
@@ -236,5 +247,6 @@ module.exports = {
     'POST /end' : post_end,
     'POST /example' : post_example,
     'POST /first': post_first,
-    'POST /reference': post_reference
+    'POST /reference': post_reference,
+    'POST /bad_vid': post_bad_vid
 };

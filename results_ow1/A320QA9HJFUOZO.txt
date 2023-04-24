@@ -1,0 +1,10 @@
+5,1,4,3,4,3
+1,2,4,6,3,5
+36696,19154,18915,18685,18076,17881
+6397,6894,4544,5775,4072,5567
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+Freezing or pausing is more annoying to me than a bitrate or quality decrease. Both are somewhat annoying, but it depends on the severity and frequency.
+2,5,4,4,3,3
