@@ -1,0 +1,10 @@
+5,1,3,4,5,3
+1,2,3,5,4,6
+108620,19100,20676,19084,18634,18107
+43452,4125,59639,10653,44277,8168
+A12PR5DPEZ5I3U
+Desktop
+39 - 45
+Cable network
+I think video bitrate decrease doesn't ruin your immersion AS MUCH as stalling/lagging/buffering.
+2,2,2,4,2,3

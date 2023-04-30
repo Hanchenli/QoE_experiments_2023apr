@@ -1,0 +1,10 @@
+5,1,4,4,5,3
+1,2,3,4,5,6
+66232,21220,18553,21186,19130,18223
+16456,16690,53791,10092,35653,53233
+A30RAYNDOWQ61S
+Desktop
+60 and above
+Cable network
+I think bitrate decease is much more damaging to the experience if the stall is momentary. Bitrate decrease can ruin the experience pretty quickly. I didn't think the guidelines were unclear. 
+2,5,4,4,2,3

@@ -6,19 +6,21 @@ from scipy.stats import ttest_ind
 
 def isvalid(df):
     # cond1 = (df["usertimes"] > df["systemtimes"]).all()
+    cond0 = df.query("videos == '5.mp4'")["scores"].item() >= df.query("videos == '6.mp4'")["scores"].item()
+    cond1 = df.query("videos == '3.mp4'")["scores"].item() >= df.query("videos == '4.mp4'")["scores"].item()
     cond2 = df.query("videos == '1.mp4'")["scores"].item() == df["scores"].max()
     cond3 = df.query("videos == '2.mp4'")["scores"].item() == df["scores"].min()
     cond4 = df.query("videos == '1.mp4'")["sanityscore"].item() == 2
     cond5 = df.query("videos == '2.mp4'")["sanityscore"].item() == 5
     #cond6 = (df.query("videos == '3.mp4'")["sanityscore"].item() == 5) or (df.query("videos == '3.mp4'")["sanityscore"].item() == 4) 
-    return cond2 and cond3 and cond4 and cond5 #and cond6
+    return cond0 and cond2 and cond3 and cond4 and cond5 #and cond6
     #return True
 
 def process_one_file(filename):
     with open(filename, "r") as fin:
         lines = [l.strip("\n") for l in fin]
     scores = [int(v) for v in lines[0].split(',')]
-    #videos = [f"{v}.mp4" for v in lines[1].split(",")]
+    # videos = [f"{v}.mp4" for v in lines[1].split(",")]
     videos = [f"{v}.mp4" for v in range(1, 10)]
     videos = videos[:len(scores)]
     usertimes = [int(v) for v in lines[2].split(',')]
@@ -61,8 +63,7 @@ final_df = pd.concat(dfs)
 final_df.to_csv("all.csv", index=None)
 
 groupedby = final_df[["videos", "scores"]].groupby("videos")
-print(ttest_ind(groupedby.get_group("4.mp4")["scores"], groupedby.get_group("6.mp4")["scores"], equal_var=False))
-
+print(ttest_ind(groupedby.get_group("5.mp4")["scores"], groupedby.get_group("3.mp4")["scores"], equal_var=False))
 
 final_df[["videos", "scores"]].groupby("videos").mean().reset_index(drop=True).to_csv("mean.csv", index=None)
 final_df[["videos", "scores"]].groupby("videos").var().reset_index(drop=True).to_csv("std.csv", index=None)

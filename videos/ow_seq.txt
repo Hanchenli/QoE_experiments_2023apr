@@ -13,3 +13,25 @@ ow2
 4. 0 750
 5. 50 0
 6. 70 0
+
+ow_online1 13 subjects heart
+1. 0 0 
+2. 100 worst
+3. 0 250 1-3
+4. 0 750 2-4
+5. 80 0  1-6
+6. 70 0  2-6
+
+ow_online2 10 subjects silver
+1. 0 0 
+2. 100 worst
+3. 80 0 1-6
+4. 0 500 2-3
+5. 50 0 2-5
+
+ow_online3 15 subjects farewell
+1. 0 0 
+2. 100 worst
+3. 0 1000 1-4
+4. 60 0 1-5
+5. 50 0 2-5
