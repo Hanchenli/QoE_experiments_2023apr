@@ -1,10 +1,10 @@
-5,1,3,3,4,2
-1,2,4,3,6,5
-74779,21257,22684,24662,20032,25262
-9730,10624,10339,40447,78309,11182
+5,1,4,3,2,3
+1,2,6,5,3,4
+47567,33785,20594,20056,21477,22842
+7041,21490,6250,34962,41583,10510
 A2QD9PJUKW7PKK
 Desktop
 25 - 31
 WiFi
-last video quality was slight down but not annoying that's why i had given good. Remaining video i had given rating based on my perception when playing game.
-2,5,4,4,2,3
+rating given based on how quality of video is and is it playable or not and based on this i had given rating, some minor difference in video i had given rating. instructions were super clear.
+2,5,4,4,3,3

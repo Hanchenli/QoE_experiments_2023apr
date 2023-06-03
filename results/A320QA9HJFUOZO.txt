@@ -1,10 +1,10 @@
-5,1,3,3,4,3
-1,2,6,3,5,4
-56070,36316,24996,18257,18271,19634
-4893,3948,3657,3545,3943,6197
+5,1,3,2,3,3
+1,2,5,6,4,3
+144145,18759,18553,18850,18619,18530
+4186,3551,5887,4238,9874,8938
 A320QA9HJFUOZO
 Desktop
 32 - 38
 Cable network
-The pausing and freezing is more annoying than bitrate decrease, generally. I would rather have one pause or bitrate decrease that is more severe than multiple small ones.
+Pausing/stalling is most annoying and makes it harder to play.
 2,5,4,4,3,3
