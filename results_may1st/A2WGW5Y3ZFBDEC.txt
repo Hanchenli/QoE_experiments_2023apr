@@ -1,0 +1,10 @@
+5,1,3,3,2,3
+1,2,3,4,6,5
+65707,21536,21078,21998,20198,20680
+13897,11746,17818,9696,29410,12522
+A2WGW5Y3ZFBDEC
+Desktop
+46 - 52
+Cable network
+I think for video games like in the example, minor stall is worse than moderate bitrate damage. The grading could have used examples of intermediate issues, it really only provides examples of 'excellent' and 'bad.'
+2,5,4,4,3,3

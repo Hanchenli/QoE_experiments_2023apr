@@ -58,8 +58,8 @@ app.use(templating('views', {
 // add controller:
 app.use(controller());
 
-app.listen(Number(process.argv[2]) || 3002);
-console.log('app started at port' + String(Number(process.argv[2]) || 3002));
+app.listen(Number(process.argv[2]) || 3001);
+console.log('app started at port' + String(Number(process.argv[2]) || 3001));
 
 function parseUser(obj) {
     if (!obj) {

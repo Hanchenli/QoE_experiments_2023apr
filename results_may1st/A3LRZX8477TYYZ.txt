@@ -1,0 +1,10 @@
+5,1,4,2,3,3
+1,2,5,6,3,4
+144930,31532,20423,26274,19825,20555
+12288,5487,8140,10028,75189,8916
+A3LRZX8477TYYZ
+Desktop
+39 - 45
+Cable network
+I found the the very brief stalls in the 2nd to last video weren't too bad.  If these occurred a lot, they'd be a serious problem.  I found that the brief stalls weren't quite as bad as the brief bitrate drop, because the bitrate drop made it harder to see what was going on, while the short stalls just seemed like minor hiccups.  Long stalls were quite bad, and would be really frustrating because it takes away my ability to control the game.
+2,5,4,4,3,3
