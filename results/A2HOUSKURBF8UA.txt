@@ -1,0 +1,10 @@
+5,1,4,4,3,3,3
+1,2,4,7,3,6,5
+111202,18814,16770,16813,16985,16620,16066
+44052,17025,12506,29364,17573,9780,31803
+A2HOUSKURBF8UA
+Laptop
+46 - 52
+WiFi
+No problems or confusion with your HIT setup or instructions. I found the stalling issue to be a little less annoying and distracting, unless the stalling was really bad or was combined with the bitrate issue. I graded according to that experience/standard. I hope that is helpful to you.
+2,5,4,4,4,5,3
