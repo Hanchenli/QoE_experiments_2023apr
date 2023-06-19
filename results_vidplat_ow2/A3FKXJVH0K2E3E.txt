@@ -1,0 +1,10 @@
+5,1,1,2,1,2,2
+1,2,4,3,5,7,6
+50049,15175,14036,14770,14087,13579,13383
+30208,21446,6563,22458,6326,3541,10249
+A3FKXJVH0K2E3E
+Desktop
+53 - 59
+Cable network
+When the game stalls or quality is unclear, can't determine what's going to happen.
+2,5,4,4,5,5,3

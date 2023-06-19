@@ -1,0 +1,10 @@
+5,1,3,4,3,4,3
+1,2,6,5,3,7,4
+32644,17128,14593,14227,15241,13784,13501
+8388,6514,5229,5111,7958,30389,5667
+A28G4QO0DRY8OZ
+Desktop
+46 - 52
+Cable network
+I don't mind bitrate quality being degraded somewhat, as long as it isn't constant. Stalls in the game can cause you to lose lives, though, so I find that to be a lot more serious, especially if they are long stalls.
+2,5,4,4,4,4,3

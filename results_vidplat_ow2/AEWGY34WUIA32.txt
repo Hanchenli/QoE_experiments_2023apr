@@ -1,0 +1,10 @@
+5,1,2,2,2,3,3
+1,2,5,4,7,6,3
+139259,13121,13711,13250,13936,13225,14623
+3977,4327,11110,32518,29519,49588,35472
+AEWGY34WUIA32
+Laptop
+32 - 38
+WiFi
+It's hard to play a game, especially a shooter when the game keeps stopping. It makes it harder to kill and easier to be killed. 
+2,5,4,4,4,5,3

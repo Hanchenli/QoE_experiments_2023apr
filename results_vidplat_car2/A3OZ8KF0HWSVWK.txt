@@ -1,0 +1,10 @@
+5,1,3,3,2,2,3
+1,2,7,5,4,3,6
+71949,22616,17512,21789,22191,28577,29585
+14259,17594,8771,9075,20795,7230,20990
+A3OZ8KF0HWSVWK
+Laptop
+53 - 59
+Cable network
+Bitrate problems are easier to tolerate than when a video freezes during gameplay.
+2,5,4,4,4,5,3

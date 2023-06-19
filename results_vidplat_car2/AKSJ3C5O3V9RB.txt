@@ -1,0 +1,10 @@
+5,1,3,3,1,2,3
+1,2,3,7,4,6,5
+204274,16273,15788,19652,20373,14749,16336
+3419,3020,10889,23374,8467,72118,17007
+AKSJ3C5O3V9RB
+Desktop
+18 - 24
+WiFi
+The last one had prominent stall defects that really impeded play game, but the additional bitrate defects potentiated the playability issues from the primary issues i.e. the stall defects. To be fair, bitrate defects are not as much of an issue with respect to playability, they are more of an aesthetics issue. However, stall defects greatly detract from the ability to play a game since there is a delay in the outcome of the action you executed hence impeding the ability to decide one's next move. Stall defects generally tend to make it more difficult to play a game since your progress is literally frozen and you don't know what the outcome of whatever action you executed is which makes it hard to figure out how to proceed in the game. Bitrate defects are annoying and more visually unappealing on an aesthetic front, however, to be fair they don't detract from playability as much as stall defects since one's progress in the game is not halted, but rather the visual depiction of your progress is blurrier, but not frozen. This study was easy to understand and well-designed. 
+2,5,4,4,5,5,3

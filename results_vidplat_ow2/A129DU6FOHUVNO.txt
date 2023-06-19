@@ -1,0 +1,10 @@
+5,1,2,2,2,1,2
+1,2,7,6,3,5,4
+52186,16870,18546,16765,42747,17650,18270
+12594,9741,21456,11752,11348,18503,35386
+A129DU6FOHUVNO
+Desktop
+39 - 45
+Cable network
+Stuttering/lag/glitch are very annoying. Bitrate issues are less annoying.
+2,5,4,4,5,5,3
