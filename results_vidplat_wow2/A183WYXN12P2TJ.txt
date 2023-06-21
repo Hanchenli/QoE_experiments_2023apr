@@ -1,0 +1,10 @@
+5,1,2,3,2,1,2
+1,2,6,7,5,3,4
+55873,14141,12147,12443,11936,12458,13286
+3170,2213,2329,2799,21168,3473,1910
+A183WYXN12P2TJ
+Desktop
+39 - 45
+Cable network
+I usually get annoyed if there is a lot of stalling in the video. If there is a lower bitrate, I can sometimes wait and it might go away. I would also reload the video to see if any quality damage goes away. The experiment guideline was pretty clean and I understood what was asked.
+2,5,4,4,4,5,3

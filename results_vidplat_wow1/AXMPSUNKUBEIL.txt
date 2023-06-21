@@ -1,0 +1,10 @@
+5,1,2,2,2,2,3
+1,2,7,4,5,6,3
+39157,13566,13040,13407,13156,13906,16514
+11823,5804,18193,5820,5044,6226,11734
+AXMPSUNKUBEIL
+Desktop
+39 - 45
+Cable network
+Bitrate decrease affects visibility and stall affects game flow and control.
+2,5,4,4,4,5,3

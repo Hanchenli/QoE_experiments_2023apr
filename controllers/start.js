@@ -3,7 +3,7 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "vidplat_car1";
+const vid_folder = "vidplat_war1";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";

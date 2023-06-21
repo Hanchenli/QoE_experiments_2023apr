@@ -1,0 +1,10 @@
+5,1,2,2,2,1,2
+1,2,4,3,6,7,5
+90402,18058,19675,20323,19045,17828,18922
+19987,12023,29724,52318,12367,17160,10113
+A129DU6FOHUVNO
+Desktop
+39 - 45
+Cable network
+Stuttering is very annoying. Bit rate issues are less annoying.
+2,5,4,4,4,5,3

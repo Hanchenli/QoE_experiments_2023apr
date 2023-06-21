@@ -1,0 +1,10 @@
+5,1,2,3,3,3,4
+1,2,4,5,6,3,7
+35825,14233,14287,15553,14075,14588,14386
+7622,5232,7227,7227,5089,4001,8906
+A3UV55HC87DO9C
+Laptop
+25 - 31
+WiFi
+Video stalls were more annoying here. It made the player movements seem very unnatural. The bit rate decreases weren't as bad in comparison. Especially when it was just for a second and there was no lagging. I was not confused by the grading or attention checks.
+2,5,4,4,4,5,3

@@ -1,0 +1,10 @@
+5,1,5,4,3,3,1
+1,2,3,4,5,7,6
+116056,25788,15075,22516,20281,16605,17808
+39919,13791,46774,10920,6141,5244,7115
+AE03LUY7RH400
+Desktop
+32 - 38
+Cable network
+Low video resolution,Compression artifact,Buffering issues
+2,5,2,2,2,2,2

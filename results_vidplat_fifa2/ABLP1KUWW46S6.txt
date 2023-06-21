@@ -1,0 +1,10 @@
+5,1,2,2,2,2,2
+1,2,4,7,3,6,5
+62528,15500,14396,15416,15182,13510,14400
+25522,34529,4502,17804,7767,66508,10506
+ABLP1KUWW46S6
+Desktop
+39 - 45
+Cable network
+Bitrate degradation can effect precision, but in general it's a cosmetic concern. Stalling however effects both precision and looks ugly. I could deal with most bitrate degradation, to an extent, as long as there was no stalling.
+2,5,4,4,5,5,3

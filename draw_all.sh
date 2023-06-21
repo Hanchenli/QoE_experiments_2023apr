@@ -1,0 +1,14 @@
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_ow1 ow1
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_ow2 ow2
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_car1 car1
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_car2 car2
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_csgo1 csgo1
+
+
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results_vidplat_csgo2 csgo2
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/results fifa1
+
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat2/results fifa2
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat3/results wow1
+
+python3 /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat1/draw_graphs.py /dataheart/hanchen/qoe_platform/QoE_experiments_vidplat4/results wow2
