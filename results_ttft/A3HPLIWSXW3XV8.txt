@@ -1,0 +1,10 @@
+5,1,5,5,5,4
+1,2,5,3,4,6
+34878,31564,30915,29897,34349,30106
+7880,82237,9193,26015,36885,8615
+A3HPLIWSXW3XV8
+Smart phone
+46 - 52
+WiFi
+Startup delays don't affect my watching experience, unless they're more than three seconds long. Intermittent stalling, however, is very annoying. I noticed delayed startups, but no more than  a second or two long.
+2,3,2,2,2,3

@@ -1,0 +1,15 @@
+joke_ttft
+1 joke perfect
+2 ttft 2.5s
+3 ttft 250
+4 ttft 500
+5 ttft 750
+6 ttft 1
+
+joke_stall
+1 joke perfect
+2 joke both
+3 stall 250ms
+4 stall 500ms
+5 stall 750ms
+6 stall 1s

@@ -1,0 +1,10 @@
+5,1,5,4,4,4
+1,2,4,3,5,6
+111155,29486,27324,30118,32787,28119
+36066,24854,6109,14781,7545,5438
+A1XAOEDK0Y2KBT
+Laptop
+32 - 38
+WiFi
+The initial stall is more annoying than the intermintent stall because I'm not sure if the ChatGPT is even working. While it's typing a stall almost seems more natural.
+4,3,2,3,3,4

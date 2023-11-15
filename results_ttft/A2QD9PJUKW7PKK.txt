@@ -1,0 +1,10 @@
+5,1,2,2,1,1
+1,2,4,3,6,5
+107335,27941,25197,25586,26482,25690
+11412,19241,4683,52506,6619,3392
+A2QD9PJUKW7PKK
+Desktop
+25 - 31
+WiFi
+i had given rating based on pause abd delay in sentence generation.
+2,5,5,5,5,5

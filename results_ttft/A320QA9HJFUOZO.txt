@@ -1,0 +1,10 @@
+5,1,4,4,3,2
+1,2,4,6,5,3
+72429,73991,23698,24505,25318,24747
+7311,12587,3302,10255,3302,4963
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+I don't mind the startup delay very much. Pausing and stopping in the middle of the response is more annoying. Sometimes it was hard to tell if there was a long enough pause here or there to count as stuttering. The bad Quality Example was slightly confusing to me, because it seemed to only clearly show one type of damage, and I would have otherwise rated it as fair/moderate based only on my own experience.
+2,3,4,4,5,3

@@ -1,0 +1,10 @@
+5,1,4,2,2,1
+1,2,6,5,4,3
+93002,26835,24260,25967,26136,26991
+26875,23559,5628,5522,9693,17924
+AO5E3LWBYM72K
+Desktop
+32 - 38
+Cable network
+I think the startup pause is much worse than the intermittent stalling. The stalling feels like a more natural pause, whereas the startup delay makes it feel the system is not working at all.
+2,3,2,3,3,3

@@ -1,0 +1,10 @@
+5,1,4,4,1,2
+1,2,5,4,3,6
+150960,37465,33779,23767,37650,32702
+34004,12107,8707,28611,28063,6327
+A7204W9E8IR1R
+Laptop
+32 - 38
+WiFi
+The better the video plays, the better my watching experience is. If there are a lot of delays or lagging, I will feel more impatient and irritated. I am slightly worried that I possibly got the attention check wrong.
+2,5,3,3,5,5

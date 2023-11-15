@@ -1,0 +1,10 @@
+5,1,5,3,4,3
+1,2,4,3,6,5
+123366,34536,30676,35244,28684,37447
+15954,28514,11034,17291,8129,7308
+A3OZ8KF0HWSVWK
+Laptop
+53 - 59
+Cable network
+I think a slight delay in the beginning is tolerable but constant delays are more annoying.
+2,3,2,3,3,3
