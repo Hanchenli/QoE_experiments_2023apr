@@ -1,0 +1,10 @@
+5,1,5,4,4,3
+1,2,6,5,3,4
+289483,44230,21196,21985,22099,24081
+2977,5377,2880,2773,4891,7233
+A183WYXN12P2TJ
+Desktop
+39 - 45
+Cable network
+I get annoyed if there is a lot of stalling in the video. If there is startup delay, I can sometimes wait and it could pass. I do not like a lot of intermittent stalling. The experiment guideline was pretty clean and I understood what was asked.
+2,5,2,4,4,4

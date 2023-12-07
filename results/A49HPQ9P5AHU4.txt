@@ -1,0 +1,10 @@
+5,1,5,4,3,3
+1,2,4,5,6,3
+111866,31619,22419,24626,23670,24305
+24058,9525,15934,19668,8434,4252
+A49HPQ9P5AHU4
+Desktop
+46 - 52
+WiFi
+I think the startup delay is the least annoying. We're all sort of used to hitting enter after doing something on a computer and there being a slight pause, so it's not as jarring. The intermittent delays are worse, because you're kind of following along and then have to hang in anticipation and it builds frustration.
+2,5,2,5,4,4

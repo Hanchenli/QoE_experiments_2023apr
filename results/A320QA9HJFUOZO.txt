@@ -1,0 +1,10 @@
+5,1,5,4,4,3
+1,2,3,5,6,4
+63413,32425,23345,22986,23423,24089
+6133,3940,14352,3373,4754,9847
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+The startup delay is less annoying. It is worse when it pauses or freezes during the response, and I would prefer a few short pauses, to one long one.
+2,5,2,4,4,4

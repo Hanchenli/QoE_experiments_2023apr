@@ -1,0 +1,10 @@
+5,1,4,5,2,4
+1,2,3,4,5,6
+95918,98605,23941,27037,26468,35462
+59743,80332,103703,7023,5307,34881
+ALVNMQMD3Q3ZE
+Laptop
+46 - 52
+WiFi
+The grading was a bit confusing since the delay almost appeared to be the same.
+2,5,5,2,5,5

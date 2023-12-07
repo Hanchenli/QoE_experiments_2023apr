@@ -1,0 +1,10 @@
+5,1,5,5,5,4
+1,2,3,5,6,4
+84476,29881,24756,23373,24188,23807
+66405,31623,16693,6468,7165,14145
+AA9V4NE8SOA4I
+Desktop
+53 - 59
+Cable network
+I think the initial lag is worse than sequencial delay. 
+4,3,2,2,2,4
