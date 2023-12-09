@@ -1,0 +1,10 @@
+5,1,4,5,5,4,5
+1,2,5,6,7,3,4
+181684,46673,39090,28471,40110,42039,42252
+30879,63374,9788,8970,186264,65186,8754
+A9KSSJXDB6GPE
+Laptop
+39 - 45
+WiFi
+Video loading time takes too much. That will get confused about video will load or not. Little bit annoying to wait for loading the video. Guidelines are clear and easy to understand, but the attention check part is confusing little bit. It get tense and fear to choose the correct option. 
+2,5,5,2,2,5,2

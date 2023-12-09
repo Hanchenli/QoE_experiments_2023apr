@@ -1,0 +1,10 @@
+5,5,4,3,4,5,2
+1,2,3,4,7,6,5
+124166,0,27930,27986,28146,33091,49094
+8111,46542,28738,9642,7362,5714,12699
+A18LFH7XW61JO9
+Laptop
+32 - 38
+WiFi
+The quality decrease or video pause at critical times affect the watching experience.
+2,2,2,4,2,2,4

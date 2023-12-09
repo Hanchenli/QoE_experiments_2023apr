@@ -1,0 +1,10 @@
+5,1,4,5,2,5,1
+1,2,6,7,3,5,4
+148689,29371,27180,30290,29413,29597,31145
+28945,8854,16187,7858,7558,33364,32191
+A2KJ983WWTEK4L
+Laptop
+53 - 59
+WiFi
+I am confused about the grading and also attention check questions
+2,2,2,2,2,2,2

@@ -1,0 +1,10 @@
+5,1,5,4,5,4,2
+1,2,6,3,7,4,5
+102591,31495,23549,23579,23326,25486,25578
+24794,35030,7719,11202,5571,23188,16434
+A3862RIFFUV141
+Laptop
+46 - 52
+WiFi
+The start up delay is the most annoying.  If there is a intermittent delay it's not horrible because I can only read fast so it would really only affect me if their were multiple long delays to where I had to wait on the text to continue reading.
+2,3,2,4,2,3,3

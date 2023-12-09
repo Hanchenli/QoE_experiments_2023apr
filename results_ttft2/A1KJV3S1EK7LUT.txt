@@ -1,0 +1,10 @@
+5,1,4,5,3,1,1
+1,2,4,6,7,3,5
+102998,27696,25138,27393,24191,25556,26059
+32592,35010,27297,27633,8077,8686,7961
+A1KJV3S1EK7LUT
+Laptop
+39 - 45
+WiFi
+I found that the delayed startup damage was easier to deal with than the intermittent delay one. This is because the delayed start just felt like waiting for something to load, although a little annoying, not nearly as annoying as stopping and starting randomly through the whole thing. As far as the guidelines, I think most of it was explained clearly. But the raiting system was a little weird to me - it wanted me to choose Bad (the worst rating) during the testing phase even though the quality damage was mild in my opinion. 
+2,3,4,2,4,3,3
