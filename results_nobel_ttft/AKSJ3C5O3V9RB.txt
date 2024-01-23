@@ -1,0 +1,10 @@
+5,1,5,4,4,3,3
+1,2,6,7,4,3,5
+438907,129988,15258,12251,14279,14014,18058
+3653,3177,140070,15792,27445,942876,93822
+AKSJ3C5O3V9RB
+Desktop
+18 - 24
+WiFi
+This series predominantly had prominent start delay defects, compared to relatively less obvious reply delays. The start delay defect was not as annoying as the  answer/reply stall  defect largely because the latter ends up interfering while one is reading a response which has the potential to break the flow and possibly, one's attention span. Overall, these videos were not difficult to view despite the inordinately long start delays, which can be annoyiing, but overall tend not to be as detrimental as defects that break and interrupt the flow abruptly of an ongoing reply.
+2,5,2,5,3,5,5

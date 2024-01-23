@@ -7,6 +7,7 @@
         <h2>The Quality Damges that might appear in this survey are: <b>startup delay</b> and <b>intermittent stall/b>. Below are examples:</h2> 
     </div>
 
+
 <div class="row" id="workContent">
 
 <!-- Place the content (in this case a block of text) below. If content is not text then replace with the relevant html element (image, url, video) below. -->
@@ -40,7 +41,7 @@
       <video width="1024" height="576" controls="controls" id="both" >
       </video>
   </div>
-    <form action="first", method="POST"  style="text-align:center">
+    <form action="history", method="POST"  style="text-align:center">
   <button type="submit" class="btn btn-primary" onclick="return checkform()">Start test</button>
   </form>
 </div>
@@ -60,10 +61,8 @@
     xhr.open(method, url);
 
   } else {
-
     // Otherwise, CORS is not supported by the browser.
     xhr = null;a
-
   }
   return xhr;
 }

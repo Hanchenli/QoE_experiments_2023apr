@@ -79,16 +79,25 @@ var post_grade= async (ctx, next) => {
     });
 }
 
+var post_history = async (ctx, next) => {
+    // var video_src = video_url + "1.mp4";
+
+    // var title = "1/" + num_vids;
+    ctx.render('history.html', {
+        // title: title, video_src : video_src
+    });
+}
+
+
 var post_first = async (ctx, next) => {
     var video_src = video_url + "1.mp4";
-    // https://github.com/michaelliao/learn-javascript/raw/master/video/vscode-nodejs.mp4
-    // very interesting url!
 
     var title = "1/" + num_vids;
     ctx.render('video.html', {
         title: title, video_src : video_src
     });
 }
+
 var post_training = async (ctx, next) => {
     // https://github.com/michaelliao/learn-javascript/raw/master/video/vscode-nodejs.mp4
     // very interesting url!
@@ -240,6 +249,7 @@ var post_end = async (ctx, next) => {
 
 module.exports = {
     'POST /start' : post_start,
+    'POST /history' : post_history,
     'POST /training' : post_training,
     'POST /grade': post_grade,
     'POST /back2video':post_back2video,

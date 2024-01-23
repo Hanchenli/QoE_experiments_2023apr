@@ -1,0 +1,10 @@
+5,1,3,2,4,1,1
+1,2,4,6,7,3,5
+255957,23990,15754,14141,16283,18993,17553
+31279,20265,11261,19863,11353,7427,6907
+A314XJY8V1YL12
+Laptop
+46 - 52
+WiFi
+The slow start makes me question if the program is working properly and affects my watching experience. The guidelines were clear but it is a bit subjective because the delays might be acceptable for some people. I don't like the lags in the middle of the text stream as they are annoying.
+2,5,5,5,5,5,5

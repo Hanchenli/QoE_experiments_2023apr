@@ -1,0 +1,10 @@
+5,1,4,3,2,2,1
+1,2,5,4,6,7,3
+90788,20690,11566,12698,13488,14587,15184
+21512,25974,6430,12866,22704,5093,7186
+AFDC9A6Z60W2Z
+Desktop
+46 - 52
+Cable network
+The startup delay is more annoying, because there's nothing to do but wait.  Intermittent stall at least lets me catch up with the text written so far.  Experiment guidelines seemed mostly clear.  I found the stall to be minimal but present on all the test videos.
+2,5,5,5,5,5,5

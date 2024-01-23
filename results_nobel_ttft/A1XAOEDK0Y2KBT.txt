@@ -1,0 +1,10 @@
+5,1,3,3,2,2,4
+1,2,7,6,3,5,4
+155128,24257,13251,113278,25304,16333,24237
+23596,10412,5207,4363,4396,11324,202976
+A1XAOEDK0Y2KBT
+Laptop
+32 - 38
+Cable network
+Video stall is much more disruptive than bit rate decrease, as it directly impacts the flow of the whole scene.
+2,5,4,4,4,5,3

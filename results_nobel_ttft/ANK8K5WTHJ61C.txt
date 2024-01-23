@@ -1,0 +1,10 @@
+5,1,4,4,2,3,2
+1,2,7,5,6,4,3
+106286,41356,11347,13015,13570,14463,17387
+33999,34506,4230,7548,17663,4990,22797
+ANK8K5WTHJ61C
+Desktop
+53 - 59
+WiFi
+Damage quality affects my personal viewing when  it stalls so long at the beginning and long intermittent breaks.  It feels like a long time when waiting for it to load.  I expect slight delays sometimes and the intermittent if short is not annoying, but when it takes too long to start or breaks in the middle it is not always easy to tell if it is working or not.
+2,5,5,5,5,5,5
