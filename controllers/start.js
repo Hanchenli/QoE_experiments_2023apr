@@ -2,8 +2,7 @@
 var getOder = require('../models/random');
 var fs = require('fs');
 
-
-const vid_folder = "nobel_ttft";
+const vid_folder = "cachegen_sigcomm/1";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";

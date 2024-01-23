@@ -4,34 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Gallery</title>
-    <!-- <style>
+    <style>
         body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
             padding: 20px;
             background-color: #f0f0f0;
         }
+        .gallery-description {
+            text-align: center; /* Center the description text */
+            margin-bottom: 40px; /* Adds space between the description and the first image */
+            font-size: 24px; /* Adjust as needed */
+            color: #333; /* Dark grey color for the text */
+        }
         img {
-            width: 200px; /* Adjust as needed */
+            width: 100%; /* Adjust as needed, 100% makes it responsive */
+            max-width: 1500px; /* Adjust based on desired maximum width */
             height: auto;
+            display: block; /* Ensures it takes up the full width available */
+            margin: 0 auto 20px; /* Centers the image and adds space between */
             border: 2px solid #ddd; /* Optional: adds a border around the images */
             border-radius: 5px; /* Optional: rounds the corners of the images */
         }
-    </style> -->
+    </style>
 </head>
+
+<div class="gallery-description">
+   Here is the conversation history between user and the Chatbot. Please read them one by one. The user question later will be based on this context history.
+</div>
+
 <body>
 
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/1.png" alt="History 1">
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/2.png" alt="History 2">
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/3.png" alt="History 3">
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/4.png" alt="History 4">
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/5.png" alt="History 5">
-    <img src="https://raw.githubusercontent.com/Hanchenli/QoE_experiments_2023apr/llm/videos/images/1/6.png" alt="History 6">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/1.png?raw=true" alt="History 1">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/2.png?raw=true" alt="History 2">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/3.png?raw=true" alt="History 3">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/4.png?raw=true" alt="History 4">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/5.png?raw=true" alt="History 5">
+    <img src="https://github.com/Hanchenli/QoE_experiments_2023apr/blob/llm/videos/images/6.png?raw=true" alt="History 6">
 
     <form action="first", method="POST"  style="text-align:center">
-    <button type="submit" class="btn btn-primary" onclick="return checkform()">Watch Reference</button>
+    <button type="submit" class="btn btn-primary" onclick="return checkform()">Continue to Reference Videos</button>
     </form>
 </body>
 </html>
